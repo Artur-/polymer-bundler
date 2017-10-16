@@ -20,7 +20,7 @@
     "espree": "^3.4.0",
     "mkdirp": "^0.5.1",
     "parse5": "^2.2.2",
-    "polymer-analyzer": "^2.3.0",
+    "polymer-analyzer": "git+https://github.com/Artur-/polymer-analyzer.git#bundle-manifest",
     "source-map": "^0.5.6"
   },
   "devDependencies": {
